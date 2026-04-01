@@ -1,0 +1,2 @@
+TODO: replace with actual apple-touch-icon (180x180)
+Specs: 180x180px, tangerine (#E8823A) background with rounded corners, white "k" glyph centered.
